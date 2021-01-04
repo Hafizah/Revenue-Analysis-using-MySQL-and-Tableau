@@ -2,7 +2,7 @@
 
 ## Introduction
 
-A computer hardware and peripheral manufacturer company supplies computer support products to different stores around the country. 
+A computer hardware and peripheral manufacturer company supplies computer support products to different stores around the country. The company allocated a budget to improve sales by doing data analysis on current and historical data. 
 
 ## Problem Statement
 
@@ -14,7 +14,9 @@ Get business insigth using data analysis to make better business decisions in th
 
 ## Data 
 
-In this project, data was retrieved from MySQL instead of from data warehouse. 
+In this project, the analysis is done on data extracted out from MySQL rather than from a data warehouse. In other words, the focus is on online transaction processing (OLTP) not online analytics processing (OLAP). 
+
+The database consist of 
 
 ## Technical Problem and Solutions
 
