@@ -23,15 +23,23 @@ The database consist of 5 tables : customers, date, markets, products and transa
 ### Compare total amount of sales for 2018, 2019 and 2020.
 Inner join between transaction and date tables is performed as follows. We can see that there are 21550 transaction that took place in 2020.
 
-<p align="center">
-  <img width="600" height="300" src="https://github.com/Hafizah/Revenue-Analysis-using-MySQL-and-Tableau/blob/main/Pictures/Inner%20join%202020.jpg">
-</p>
+**2020**
 
 <p align="center">
   <img width="600" height="300" src="https://github.com/Hafizah/Revenue-Analysis-using-MySQL-and-Tableau/blob/main/Pictures/Inner%20join%202020.jpg">
 </p>
 
+**2019**
 
+<p align="center">
+  <img width="600" height="300" src="https://github.com/Hafizah/Revenue-Analysis-using-MySQL-and-Tableau/blob/main/Pictures/Inner%20Join%202019.jpg">
+</p>
+
+**2018**
+
+<p align="center">
+  <img width="600" height="300" src="https://github.com/Hafizah/Revenue-Analysis-using-MySQL-and-Tableau/blob/main/Pictures/Inner%20Join%202018.jpg">
+</p>
 
 ## Data Analysis using Tableau
 
