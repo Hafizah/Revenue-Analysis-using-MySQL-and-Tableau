@@ -2,7 +2,16 @@
 
 ## Introduction
 
+A computer hardware and peripheral manufacturer company supplies computer support products to different stores around the country. 
+
 ## Problem Statement
+
+Get business insigth using data analysis to make better business decisions in the future. The Aim's Grid is as follows.
+
+
+## 
+
+## Data 
 
 ## Technical Problem and Solutions
 
