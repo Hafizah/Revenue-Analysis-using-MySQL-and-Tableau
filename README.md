@@ -26,13 +26,13 @@ Inner join between transaction and date tables is performed as follows. We can s
 **2020**
 
 <p align="center">
-  <img width="600" height="250" src="https://github.com/Hafizah/Revenue-Analysis-using-MySQL-and-Tableau/blob/main/Pictures/Inner%20join%202020.jpg">
+  <img width="600" height="250" src="https://github.com/Hafizah/Revenue-Analysis-using-MySQL-and-Tableau/blob/main/Pictures/Inner_join%202020.jpg">
 </p>
 
 **2019**
 
 <p align="center">
-  <img width="600" height="250" src="https://github.com/Hafizah/Revenue-Analysis-using-MySQL-and-Tableau/blob/main/Pictures/Inner%20Join%202019.jpg">
+  <img width="600" height="250" src="https://github.com/Hafizah/Revenue-Analysis-using-MySQL-and-Tableau/blob/main/Pictures/Inner_join%202019.jpg">
 </p>
 
 **2018**
