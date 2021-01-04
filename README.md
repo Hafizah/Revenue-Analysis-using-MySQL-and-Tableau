@@ -14,19 +14,9 @@ Get business insigth using data analysis to make better business decisions in th
 
 ## Data 
 
-In this project, the analysis is done on data extracted out from MySQL rather than from a data warehouse. In other words, the focus is on online transaction processing (OLTP) not online analytics processing (OLAP). 
+In this project, the analysis is done on data extracted from MySQL rather than from a data warehouse. In other words, the focus is on online transaction processing (OLTP) not online analytics processing (OLAP). The database is connected to Tableau for visual analysis and dashboard creation.
 
-The database consist of 
-
-## Technical Problem and Solutions
-
-## 
-<br>
-
-Variable | Description
----- | -------
-**session_id** | Used as primary key in the table
-
+The database consist of 5 tables : customers, date, markets, products and transactions.
 
 ## Questions
 ### 1.
@@ -35,6 +25,4 @@ Variable | Description
 ## Conclusion
 
 
-<p align="center">
-  <img width="700" height="350" src="">
-</p>
+
