@@ -6,16 +6,15 @@ A computer hardware and peripheral manufacturer company supplies computer suppor
 
 ## Problem Statement
 
-Get business insigth using data analysis to make better business decisions in the future. The Aim's Grid is as follows.
+Get business insigth using data analysis to make better business decisions in the future. One way to mind-map the understanding of this project is to  use Aim's grid. It is a tool that assists in gathering important information about the project for successful project execution.
 
 <p align="center">
   <img width="400" height="500" src="https://github.com/Hafizah/Revenue-Analysis-using-MySQL-and-Tableau/blob/main/Aim's%20Grid.jpg">
 </p>
 
-
-## 
-
 ## Data 
+
+In this project, data was retrieved from MySQL instead of from data warehouse. 
 
 ## Technical Problem and Solutions
 
