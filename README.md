@@ -20,14 +20,14 @@ The database consist of 5 tables : customers, date, markets, products and transa
 
 ## Data Analysis using MySQL
 
-
 ### What is the quantity of sales in 2020?
-Inner join between transaction and date tables is performed as follows.
+Inner join between transaction and date tables is performed as follows. We can see that there are 21550 transaction that took place in 2020.
 
 <p align="center">
-  <img width="400" height="500" src="https://github.com/Hafizah/Revenue-Analysis-using-MySQL-and-Tableau/blob/main/Pictures/Inner%20Join.jpg">
+  <img width="600" height="300" src="https://github.com/Hafizah/Revenue-Analysis-using-MySQL-and-Tableau/blob/main/Pictures/Inner%20Join.jpg">
 </p>
 
+## Data Analysis using Tableau
 
 ## Conclusion
 
