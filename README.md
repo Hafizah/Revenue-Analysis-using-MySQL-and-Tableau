@@ -9,7 +9,7 @@ A computer hardware and peripheral manufacturer company supplies computer suppor
 Get business insigth using data analysis to make better business decisions in the future. The Aim's Grid is as follows.
 
 <p align="center">
-  <img width="700" height="350" src="">
+  <img width="300" height="350" src="https://github.com/Hafizah/Revenue-Analysis-using-MySQL-and-Tableau/blob/main/Aim's%20Grid.jpg">
 </p>
 
 
@@ -35,5 +35,5 @@ Variable | Description
 
 
 <p align="center">
-  <img width="700" height="350" src="https://github.com/Hafizah/Financial-Chatbot-Model-Deployment-Using-Deep-Learning/blob/main/result%20images/Year_.jpg">
+  <img width="700" height="350" src="">
 </p>
