@@ -22,9 +22,10 @@ The database consist of 5 tables : customers, date, markets, products and transa
 
 
 ### What is the quantity of sales in 2020?
+Inner join between transaction and date tables is performed as follows.
 
 <p align="center">
-  <img width="400" height="500" src="https://github.com/Hafizah/Revenue-Analysis-using-MySQL-and-Tableau/blob/main/Aim's%20Grid.jpg">
+  <img width="400" height="500" src="https://github.com/Hafizah/Revenue-Analysis-using-MySQL-and-Tableau/blob/main/Pictures/Inner%20Join.jpg">
 </p>
 
 
