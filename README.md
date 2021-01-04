@@ -1,4 +1,4 @@
-![Banner]()
+![Banner](https://github.com/Hafizah/Revenue-Analysis-using-MySQL-and-Tableau/blob/main/Pictures/Revenue_Banner.png)
 
 ## Introduction
 
