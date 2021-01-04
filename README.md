@@ -38,7 +38,7 @@ Inner join between transaction and date tables is performed as follows. We can s
 **2018**
 
 <p align="center">
-  <img width="600" height="250" src="https://github.com/Hafizah/Revenue-Analysis-using-MySQL-and-Tableau/blob/main/Pictures/Inner%20Join%202018.jpg">
+  <img width="600" height="250" src="https://github.com/Hafizah/Revenue-Analysis-using-MySQL-and-Tableau/blob/main/Pictures/Inner_join%202018.jpg">
 </p>
 
 ## Data Analysis using Tableau
