@@ -6,7 +6,7 @@ A computer hardware and peripheral manufacturer company supplies computer suppor
 
 ## Problem Statement
 
-Get business insigth using data analysis to make better business decisions in the future. One way to mind-map the understanding of this project is to  use Aim's grid. It is a tool that assists in gathering important information about the project for successful project execution.
+Gain business insights using data analysis to make better business decisions in the future. One way to mind-map the understanding of this project is to use Aim's grid. It is a tool that assists in gathering important information about the project to help complete a successful project execution.
 
 <p align="center">
   <img width="400" height="500" src="https://github.com/Hafizah/Revenue-Analysis-using-MySQL-and-Tableau/blob/main/Aim's%20Grid.jpg">
@@ -43,7 +43,7 @@ In order to answer this question, the tables available in the database have to b
 
 ## Data Analysis using Tableau
 
-Using Tableau we can visualize the above analysis and better understand the significance of the values shown. The trendlines show a negative gradient as the year increases,resulting in lost in revenue.
+Using Tableau we can visualize the above analysis and better understand the significance of the values shown. The trendlines show a negative gradient as the year increases,resulting in a loss in revenue.
 
 <p align="center">
   <img width="700" height="350" src="https://github.com/Hafizah/Revenue-Analysis-using-MySQL-and-Tableau/blob/main/Pictures/Revenue%20Plot%20Tableau.jpg">
@@ -56,7 +56,7 @@ Using Tableau we can visualize the above analysis and better understand the sign
 
 ## Conclusion
 
-A lot more analysis can be done to further understand what kind of product that contributes to declining revenue as well as top products and top customers. The insight from the data will help the sale and marketing team to direct their attention to fix and improve the cost and revenue in the future.
+A lot more analysis can be done to further understand what kind of product contributed to declining revenue as well as top products and top customers. Insights from the data can help the sales and marketing team direct their attention to reducing the cost and increasing revenue in the future.
 
 
 
