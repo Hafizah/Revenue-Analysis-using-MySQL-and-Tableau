@@ -43,12 +43,23 @@ In order to answer this question, the tables available in the database have to b
 
 ## Data Analysis using Tableau
 
-Using Tableau we can visualize the above analysis.
+Using Tableau we can visualize the above analysis and better understand the significance of the values shown. The trendlines show a negative gradient as the year increases,resulting in lost in revenue.
 
 <p align="center">
-  <img width="600" height="250" src="https://github.com/Hafizah/Revenue-Analysis-using-MySQL-and-Tableau/blob/main/Pictures/Revenue%20Plot%20Tableau.jpg">
+  <img width="700" height="350" src="https://github.com/Hafizah/Revenue-Analysis-using-MySQL-and-Tableau/blob/main/Pictures/Revenue%20Plot%20Tableau.jpg">
 </p>
+
+**Dynamic Dashboard**
+
+<p align="center">
+  <img width="700" height="350" src="">
+</p>
+
+
 ## Conclusion
+
+A lot more analysis can be done to further understand what kind of product that contributes to declining revenue as well as top products and top customers. The insight from the data will help the sale and marketing team to direct their attention to fix and improve the cost and revenue in the future.
+
 
 
 
