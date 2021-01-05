@@ -12,7 +12,7 @@ Get business insigth using data analysis to make better business decisions in th
   <img width="400" height="500" src="https://github.com/Hafizah/Revenue-Analysis-using-MySQL-and-Tableau/blob/main/Aim's%20Grid.jpg">
 </p>
 
-## Data 
+## Database
 
 In this project, the analysis is done on data extracted from MySQL rather than from a data warehouse. In other words, the focus is on online transaction processing (OLTP) not online analytics processing (OLAP). The database is connected to Tableau for visual analysis and dashboard creation.
 
@@ -20,8 +20,8 @@ The database consist of 5 tables : customers, date, markets, products and transa
 
 ## Data Analysis using MySQL
 
-### Compare total amount of sales for 2018, 2019 and 2020.
-Inner join between transaction and date tables is performed as follows. We can see that there are 21550 transaction that took place in 2020.
+### How is the sale transactions for 2020 compared to previous years?
+In order to answer this question, the tables available in the database have to be joinned together using inner join. As you can see, as the quantity of product sold increases, the total amount of sales increases. However, the quantity of products sold decreased significantly. The total sales dropped by 67% from 6 millions to 2 millions in 2 years!
 
 **2020**
 
@@ -42,6 +42,8 @@ Inner join between transaction and date tables is performed as follows. We can s
 </p>
 
 ## Data Analysis using Tableau
+
+
 
 ## Conclusion
 
