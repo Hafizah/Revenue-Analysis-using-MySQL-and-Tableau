@@ -21,7 +21,7 @@ The database consist of 5 tables : customers, date, markets, products and transa
 ## Data Analysis using MySQL
 
 ### How is the sale transactions for 2020 compared to previous years?
-In order to answer this question, the tables available in the database have to be joinned together using inner join. As you can see, as the quantity of product sold increases, the total amount of sales increases. However, the quantity of products sold decreased significantly. The total sales dropped by 67% from 6 millions to 2 millions in 2 years!
+In order to answer this question, the tables available in the database have to be joinned together using inner join. As you can see, as the quantity of product sold increases, the total amount of sales increases. However, the quantity of products sold decreased significantly. The total sales dropped by 67% from $6 millions to $2 millions in 2 years!
 
 **2020**
 
