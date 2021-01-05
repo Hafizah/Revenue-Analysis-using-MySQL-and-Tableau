@@ -49,12 +49,9 @@ Using Tableau we can visualize the above analysis and better understand the sign
   <img width="700" height="350" src="https://github.com/Hafizah/Revenue-Analysis-using-MySQL-and-Tableau/blob/main/Pictures/Revenue%20Plot%20Tableau.jpg">
 </p>
 
-**Dynamic Dashboard**
+**Dynamic Dashboard showing visualization when 2020 is clicked**
 
-<p align="center">
-  <img width="700" height="350" src="">
-</p>
-
+![Dashboard](https://github.com/Hafizah/Revenue-Analysis-using-MySQL-and-Tableau/blob/main/Pictures/Dashboard.jpg)
 
 ## Conclusion
 
