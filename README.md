@@ -46,7 +46,7 @@ In order to answer this question, the tables available in the database have to b
 Using Tableau we can visualize the above analysis.
 
 <p align="center">
-  <img width="600" height="250" src="">
+  <img width="600" height="250" src="https://github.com/Hafizah/Revenue-Analysis-using-MySQL-and-Tableau/blob/main/Pictures/Revenue%20Plot%20Tableau.jpg">
 </p>
 ## Conclusion
 
