@@ -43,8 +43,11 @@ In order to answer this question, the tables available in the database have to b
 
 ## Data Analysis using Tableau
 
+Using Tableau we can visualize the above analysis.
 
-
+<p align="center">
+  <img width="600" height="250" src="">
+</p>
 ## Conclusion
 
 
